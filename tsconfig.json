@@ -21,5 +21,5 @@
     "checkJs": true,
     "noEmit": true
   },
-  "exclude": ["cdk.out"]
+  "exclude": ["cdk.out", "lambda"]
 }
