@@ -2,7 +2,7 @@
   "name": "kata",
   "version": "1.0.0",
   "dependencies": {
-    "aws-sdk": "^2.506.0",
+    "aws-sdk": "^2.814.0",
     "uuid": "^3.3.2"
   }
 }
